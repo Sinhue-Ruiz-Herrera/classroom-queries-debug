@@ -10,4 +10,6 @@
 #  department_id :integer
 #
 class Course < ApplicationRecord
+
+
 end
